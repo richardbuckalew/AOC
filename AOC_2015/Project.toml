@@ -1,0 +1,4 @@
+name = "AOC_2015"
+uuid = "b46a2fdf-18a9-4511-8d7c-7c5e34f9b910"
+authors = ["Richard Buckalew <richard.buckalew@gmail.com>"]
+version = "0.1.0"
